@@ -1,0 +1,6 @@
+C:\Users\Артём\Desktop\SOA\Client\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Артём\Desktop\SOA\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Артём\Desktop\SOA\Client\Client\bin\Debug\Client.exe
+C:\Users\Артём\Desktop\SOA\Client\Client\bin\Debug\Client.pdb
+C:\Users\Артём\Desktop\SOA\Client\Client\obj\Debug\Client.exe
+C:\Users\Артём\Desktop\SOA\Client\Client\obj\Debug\Client.pdb
