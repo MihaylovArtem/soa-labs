@@ -4,3 +4,9 @@ C:\Users\Артём\Desktop\SOA\Client\Client\bin\Debug\Client.exe
 C:\Users\Артём\Desktop\SOA\Client\Client\bin\Debug\Client.pdb
 C:\Users\Артём\Desktop\SOA\Client\Client\obj\Debug\Client.exe
 C:\Users\Артём\Desktop\SOA\Client\Client\obj\Debug\Client.pdb
+C:\Users\Артём\Desktop\SOAgit\Lab1\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Артём\Desktop\SOAgit\Lab1\Client\Client\obj\Debug\Client.exe
+C:\Users\Артём\Desktop\SOAgit\Lab1\Client\Client\obj\Debug\Client.pdb
+C:\Users\Артём\Desktop\SOAgit\Lab1\Client\Client\bin\Debug\Client.exe
+C:\Users\Артём\Desktop\SOAgit\Lab1\Client\Client\bin\Debug\Client.pdb
+C:\Users\Артём\Desktop\SOAgit\Lab1\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

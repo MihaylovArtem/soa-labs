@@ -24,7 +24,7 @@ namespace Client {
                     }
                     while (stream.DataAvailable);
                     message = builder.ToString();
-                    Console.WriteLine("Сервер: " + message);
+                    Console.WriteLine("Server: " + message);
                 }
                 catch (Exception ex) {
                     Console.WriteLine(ex.Message);
